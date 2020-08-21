@@ -51,17 +51,6 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIApplicationShortcutItems</key>
-<array>
-  <dict>
-    <key>UIApplicationShortcutItemIconType</key>
-    <string>UIApplicationShortcutIconTypeLocation</string>
-    <key>UIApplicationShortcutItemTitle</key>
-    <string>Atalho</string>
-    <key>UIApplicationShortcutItemType</key>
-    <string>$(PRODUCT_BUNDLE_IDENTIFIER).action</string>
-  </dict>
-</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
